@@ -1,0 +1,2 @@
+# AutamationTraining
+Starting with GIT
